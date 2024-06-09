@@ -1,0 +1,113 @@
+id,name,description,price,quantity,category,category_name,category_description,supplier
+1,Compact Portable Charger,Compact Portable Charger with fast-charging features,133,50,2,Laptops,Portable computers,Supplier B
+2,Portable Portable Charger,Portable Portable Charger with fast-charging features,125,57,2,Laptops,Portable computers,Supplier A
+3,Premium Headphones,Premium Headphones with high-quality features,139,33,2,Laptops,Portable computers,Supplier D
+4,Ultra HD Wireless Mouse,Ultra HD Wireless Mouse with compact features,137,37,1,Smartphones,Devices to make calls and run apps,Supplier C
+5,Fast-charging Webcam,Fast-charging Webcam with compact features,104,72,2,Laptops,Portable computers,Supplier B
+6,Premium Screen Protector,Premium Screen Protector with compact features,116,70,2,Laptops,Portable computers,Supplier C
+7,Compact Keyboard,Compact Keyboard with ergonomic features,53,18,2,Laptops,Portable computers,Supplier B
+8,Portable Phone Case,Portable Phone Case with fast-charging features,76,60,1,Smartphones,Devices to make calls and run apps,Supplier E
+9,Ergonomic Phone Case,Ergonomic Phone Case with compact features,131,89,1,Smartphones,Devices to make calls and run apps,Supplier D
+10,Noise-canceling Wireless Mouse,Noise-canceling Wireless Mouse with durable features,101,83,3,Tablets,Touch screen devices,Supplier A
+11,Fast-charging Headphones,Fast-charging Headphones with stylish features,103,22,5,Audio,"Headphones, earphones, and speakers",Supplier C
+12,Premium Phone Case,Premium Phone Case with fast-charging features,117,12,2,Laptops,Portable computers,Supplier B
+13,Fast-charging Wireless Mouse,Fast-charging Wireless Mouse with ergonomic features,73,87,2,Laptops,Portable computers,Supplier D
+14,Durable Wireless Mouse,Durable Wireless Mouse with stylish features,33,65,1,Smartphones,Devices to make calls and run apps,Supplier B
+15,Stylish Phone Case,Stylish Phone Case with portable features,45,73,3,Tablets,Touch screen devices,Supplier D
+16,High-quality Phone Case,High-quality Phone Case with fast-charging features,106,95,4,Wearables,Smart watches and fitness trackers,Supplier D
+17,Premium Wireless Mouse,Premium Wireless Mouse with fast-charging features,78,88,1,Smartphones,Devices to make calls and run apps,Supplier A
+18,Fast-charging Bluetooth Speaker,Fast-charging Bluetooth Speaker with ergonomic features,61,30,5,Audio,"Headphones, earphones, and speakers",Supplier C
+19,Stylish USB Cable,Stylish USB Cable with ergonomic features,64,8,5,Audio,"Headphones, earphones, and speakers",Supplier A
+20,Portable Charging Adapter,Portable Charging Adapter with fast-charging features,65,82,4,Wearables,Smart watches and fitness trackers,Supplier D
+21,Fast-charging Phone Case,Fast-charging Phone Case with durable features,6,37,3,Tablets,Touch screen devices,Supplier C
+22,Noise-canceling Portable Charger,Noise-canceling Portable Charger with portable features,142,16,3,Tablets,Touch screen devices,Supplier E
+23,Fast-charging Keyboard,Fast-charging Keyboard with premium features,25,4,2,Laptops,Portable computers,Supplier E
+24,Compact Headphones,Compact Headphones with high-quality features,89,56,3,Tablets,Touch screen devices,Supplier C
+25,Ultra HD Portable Charger,Ultra HD Portable Charger with high-quality features,128,27,5,Audio,"Headphones, earphones, and speakers",Supplier C
+26,Fast-charging USB Cable,Fast-charging USB Cable with noise-canceling features,61,29,4,Wearables,Smart watches and fitness trackers,Supplier B
+27,High-quality Webcam,High-quality Webcam with premium features,145,16,2,Laptops,Portable computers,Supplier E
+28,Compact Screen Protector,Compact Screen Protector with premium features,56,3,5,Audio,"Headphones, earphones, and speakers",Supplier B
+29,Durable USB Cable,Durable USB Cable with durable features,95,23,4,Wearables,Smart watches and fitness trackers,Supplier E
+30,Fast-charging Charging Adapter,Fast-charging Charging Adapter with durable features,117,74,5,Audio,"Headphones, earphones, and speakers",Supplier E
+31,Portable USB Cable,Portable USB Cable with premium features,16,88,3,Tablets,Touch screen devices,Supplier C
+32,Noise-canceling Phone Case,Noise-canceling Phone Case with noise-canceling features,133,88,3,Tablets,Touch screen devices,Supplier B
+33,Ultra HD Bluetooth Speaker,Ultra HD Bluetooth Speaker with ergonomic features,106,42,2,Laptops,Portable computers,Supplier A
+34,Durable Portable Charger,Durable Portable Charger with portable features,27,12,4,Wearables,Smart watches and fitness trackers,Supplier B
+35,Compact Bluetooth Speaker,Compact Bluetooth Speaker with portable features,105,66,4,Wearables,Smart watches and fitness trackers,Supplier E
+36,Ultra HD Phone Case,Ultra HD Phone Case with compact features,105,69,3,Tablets,Touch screen devices,Supplier D
+37,Stylish Bluetooth Speaker,Stylish Bluetooth Speaker with ultra hd features,93,39,4,Wearables,Smart watches and fitness trackers,Supplier A
+38,Noise-canceling Charging Adapter,Noise-canceling Charging Adapter with premium features,138,72,4,Wearables,Smart watches and fitness trackers,Supplier E
+39,Noise-canceling Bluetooth Speaker,Noise-canceling Bluetooth Speaker with noise-canceling features,107,52,2,Laptops,Portable computers,Supplier D
+40,Premium Webcam,Premium Webcam with fast-charging features,140,30,4,Wearables,Smart watches and fitness trackers,Supplier B
+41,Ergonomic Screen Protector,Ergonomic Screen Protector with compact features,86,56,4,Wearables,Smart watches and fitness trackers,Supplier C
+42,Ergonomic Portable Charger,Ergonomic Portable Charger with compact features,83,66,5,Audio,"Headphones, earphones, and speakers",Supplier D
+43,Premium USB Cable,Premium USB Cable with noise-canceling features,73,32,1,Smartphones,Devices to make calls and run apps,Supplier D
+44,Durable Phone Case,Durable Phone Case with premium features,101,83,3,Tablets,Touch screen devices,Supplier B
+45,Portable Wireless Mouse,Portable Wireless Mouse with ergonomic features,62,59,1,Smartphones,Devices to make calls and run apps,Supplier E
+46,Ultra HD USB Cable,Ultra HD USB Cable with premium features,22,21,1,Smartphones,Devices to make calls and run apps,Supplier E
+47,Portable Screen Protector,Portable Screen Protector with ergonomic features,39,33,3,Tablets,Touch screen devices,Supplier E
+48,Stylish Keyboard,Stylish Keyboard with fast-charging features,26,95,3,Tablets,Touch screen devices,Supplier A
+49,High-quality Keyboard,High-quality Keyboard with durable features,114,93,3,Tablets,Touch screen devices,Supplier E
+50,High-quality Charging Adapter,High-quality Charging Adapter with portable features,41,31,3,Tablets,Touch screen devices,Supplier D
+51,Compact Wireless Mouse,Compact Wireless Mouse with stylish features,63,25,3,Tablets,Touch screen devices,Supplier A
+52,Durable Headphones,Durable Headphones with premium features,128,14,2,Laptops,Portable computers,Supplier D
+53,Durable Screen Protector,Durable Screen Protector with stylish features,88,48,2,Laptops,Portable computers,Supplier E
+54,Noise-canceling Headphones,Noise-canceling Headphones with ergonomic features,131,17,5,Audio,"Headphones, earphones, and speakers",Supplier C
+55,Ergonomic USB Cable,Ergonomic USB Cable with durable features,99,85,5,Audio,"Headphones, earphones, and speakers",Supplier D
+56,Noise-canceling Webcam,Noise-canceling Webcam with high-quality features,82,51,4,Wearables,Smart watches and fitness trackers,Supplier A
+57,Fast-charging Screen Protector,Fast-charging Screen Protector with high-quality features,85,44,4,Wearables,Smart watches and fitness trackers,Supplier A
+58,Premium Keyboard,Premium Keyboard with noise-canceling features,148,72,5,Audio,"Headphones, earphones, and speakers",Supplier D
+59,Compact Charging Adapter,Compact Charging Adapter with fast-charging features,22,46,1,Smartphones,Devices to make calls and run apps,Supplier B
+60,Portable Webcam,Portable Webcam with compact features,81,62,3,Tablets,Touch screen devices,Supplier A
+61,Stylish Headphones,Stylish Headphones with ultra hd features,147,62,2,Laptops,Portable computers,Supplier E
+62,Ergonomic Webcam,Ergonomic Webcam with high-quality features,99,74,5,Audio,"Headphones, earphones, and speakers",Supplier A
+63,Xtreme Drone,Description for Xtreme Drone,401,18,4,Smartphones,Devices to make calls and run apps,Supplier B
+64,Xtreme Noise Cancelling Headphones,Description for Xtreme Noise Cancelling Headphones,50,48,3,Tablets,"Headphones, earphones, and speakers",Supplier D
+65,Pro Robot Vacuum,Description for Pro Robot Vacuum,57,11,3,Audio,Portable computers,Supplier B
+66,Max Robot Vacuum,Description for Max Robot Vacuum,137,63,3,Tablets,"Headphones, earphones, and speakers",Supplier C
+67,Max Smartwatch,Description for Max Smartwatch,214,14,5,Laptops,Smart watches and fitness trackers,Supplier C
+68,Advanced Fitness Tracker,Description for Advanced Fitness Tracker,260,36,3,Laptops,Portable computers,Supplier A
+69,Max Drone,Description for Max Drone,452,56,3,Laptops,"Headphones, earphones, and speakers",Supplier E
+70,Xtreme Smart Light Bulb,Description for Xtreme Smart Light Bulb,91,67,5,Smartphones,Portable computers,Supplier D
+71,Pro Portable Charger,Description for Pro Portable Charger,330,70,5,Smartphones,Smart watches and fitness trackers,Supplier D
+72,Xtreme Bluetooth Speaker,Description for Xtreme Bluetooth Speaker,127,10,1,Tablets,Devices to make calls and run apps,Supplier E
+73,Ultra Noise Cancelling Headphones,Description for Ultra Noise Cancelling Headphones,359,47,1,Audio,Portable computers,Supplier E
+74,Elite Smartwatch,Description for Elite Smartwatch,357,29,1,Laptops,Portable computers,Supplier A
+75,Ultra Smart Light Bulb,Description for Ultra Smart Light Bulb,339,26,2,Smartphones,Smart watches and fitness trackers,Supplier E
+76,Sonic Fitness Tracker,Description for Sonic Fitness Tracker,118,37,3,Wearables,Devices to make calls and run apps,Supplier E
+77,Elite Bluetooth Speaker,Description for Elite Bluetooth Speaker,130,52,2,Audio,Smart watches and fitness trackers,Supplier B
+78,Advanced Smart Light Bulb,Description for Advanced Smart Light Bulb,477,65,3,Audio,Portable computers,Supplier A
+79,Mini VR Headset,Description for Mini VR Headset,308,45,5,Audio,Touch screen devices,Supplier C
+80,Ultra VR Headset,Description for Ultra VR Headset,131,35,1,Smartphones,Devices to make calls and run apps,Supplier D
+81,Mini Smart Light Bulb,Description for Mini Smart Light Bulb,77,20,2,Smartphones,Touch screen devices,Supplier C
+82,Pro Bluetooth Speaker,Description for Pro Bluetooth Speaker,320,82,2,Audio,Smart watches and fitness trackers,Supplier B
+83,Ultra Drone,Description for Ultra Drone,189,49,4,Wearables,Devices to make calls and run apps,Supplier B
+84,Elite Fitness Tracker,Description for Elite Fitness Tracker,421,86,2,Smartphones,Smart watches and fitness trackers,Supplier A
+85,Pro Wireless Earbuds,Description for Pro Wireless Earbuds,120,97,1,Smartphones,Devices to make calls and run apps,Supplier C
+86,Pro Drone,Description for Pro Drone,385,97,4,Wearables,"Headphones, earphones, and speakers",Supplier E
+87,Max Portable Charger,Description for Max Portable Charger,359,85,1,Laptops,Touch screen devices,Supplier B
+88,Nano Bluetooth Speaker,Description for Nano Bluetooth Speaker,286,60,4,Wearables,Smart watches and fitness trackers,Supplier C
+89,Pro Noise Cancelling Headphones,Description for Pro Noise Cancelling Headphones,179,40,1,Wearables,Portable computers,Supplier E
+90,Nano Robot Vacuum,Description for Nano Robot Vacuum,94,49,2,Wearables,Devices to make calls and run apps,Supplier B
+91,Sonic Smartwatch,Description for Sonic Smartwatch,425,92,2,Laptops,Touch screen devices,Supplier B
+92,Max Smart Light Bulb,Description for Max Smart Light Bulb,350,74,1,Audio,Touch screen devices,Supplier E
+93,Plus Bluetooth Speaker,Description for Plus Bluetooth Speaker,164,63,1,Laptops,"Headphones, earphones, and speakers",Supplier B
+94,Sonic Drone,Description for Sonic Drone,204,25,3,Smartphones,Portable computers,Supplier B
+95,Mini Portable Charger,Description for Mini Portable Charger,448,87,2,Tablets,Devices to make calls and run apps,Supplier B
+96,Plus VR Headset,Description for Plus VR Headset,102,91,1,Smartphones,Touch screen devices,Supplier A
+97,Advanced VR Headset,Description for Advanced VR Headset,418,98,1,Tablets,Portable computers,Supplier A
+98,Plus Drone,Description for Plus Drone,246,77,2,Laptops,Devices to make calls and run apps,Supplier D
+99,Elite Noise Cancelling Headphones,Description for Elite Noise Cancelling Headphones,135,70,2,Tablets,Devices to make calls and run apps,Supplier C
+100,Sonic Smart Light Bulb,Description for Sonic Smart Light Bulb,426,71,1,Smartphones,Smart watches and fitness trackers,Supplier A
+101,Plus Wireless Earbuds,Description for Plus Wireless Earbuds,163,85,1,Wearables,Devices to make calls and run apps,Supplier C
+102,Plus Smart Light Bulb,Description for Plus Smart Light Bulb,209,89,4,Smartphones,"Headphones, earphones, and speakers",Supplier D
+103,Pro VR Headset,Description for Pro VR Headset,140,75,2,Laptops,"Headphones, earphones, and speakers",Supplier A
+104,Max Fitness Tracker,Description for Max Fitness Tracker,82,63,4,Audio,Devices to make calls and run apps,Supplier A
+105,Xtreme VR Headset,Description for Xtreme VR Headset,336,35,2,Audio,Devices to make calls and run apps,Supplier E
+106,Mini Noise Cancelling Headphones,Description for Mini Noise Cancelling Headphones,478,86,3,Tablets,"Headphones, earphones, and speakers",Supplier B
+107,Mini Fitness Tracker,Description for Mini Fitness Tracker,324,36,5,Audio,Smart watches and fitness trackers,Supplier A
+108,Mini Wireless Earbuds,Description for Mini Wireless Earbuds,365,46,1,Tablets,"Headphones, earphones, and speakers",Supplier A
+109,Ultra Bluetooth Speaker,Description for Ultra Bluetooth Speaker,460,38,1,Tablets,Portable computers,Supplier B
+110,Advanced Robot Vacuum,Description for Advanced Robot Vacuum,343,61,5,Wearables,Devices to make calls and run apps,Supplier C
+111,Nano Smart Light Bulb,Description for Nano Smart Light Bulb,359,28,3,Tablets,Smart watches and fitness trackers,Supplier B
+112,Xtreme Robot Vacuum,Description for Xtreme Robot Vacuum,119,54,3,Audio,Devices to make calls and run apps,Supplier C
